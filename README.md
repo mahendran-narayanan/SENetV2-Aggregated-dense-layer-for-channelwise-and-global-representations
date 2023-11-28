@@ -9,4 +9,4 @@ Convolutional Neural Networks (CNNs) have revolutionized image classification by
 
 ![SENETv2](https://github.com/mahendran-narayanan/SENetV2-Aggregated-dense-layer-for-channelwise-and-global-representations/blob/main/data/senet_vs_senetv2.jpg)
 
-Link to the paper (SENetV2)[https://arxiv.org/pdf/2311.10807v1.pdf]
+Link to the paper [SENetV2](https://arxiv.org/abs/2311.10807)
