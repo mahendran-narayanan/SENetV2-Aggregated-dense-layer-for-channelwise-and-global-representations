@@ -1,3 +1,5 @@
+import tensorflow as tf
+
 class SE(tf.keras.Model):
     def __init__(self,out):
         super().__init__()
