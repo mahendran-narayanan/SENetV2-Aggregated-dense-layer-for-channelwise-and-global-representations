@@ -1,5 +1,6 @@
 # SENetV2-Aggregated-dense-layer-for-channelwise-and-global-representations
-Code for paper SENetV2 Aggregated dense layer for channelwise and global representations
+This is the official implementation of our paper "SENetV2 Aggregated dense layer for channelwise and global representations". In this paper, we propose a novel multi dense layer for squeeze and excitation network. Multi dense layer module is similar to multiconv aggregated layer as in Inception module.
+
 
 # Abstract
 
@@ -7,11 +8,7 @@ Convolutional Neural Networks (CNNs) have revolutionized image classification by
 
 # SENetV2 module
 
-![SENetV2 module](https://github.com/mahendran-narayanan/SENetV2-Aggregated-dense-layer-for-channelwise-and-global-representations/blob/main/data/senetv2_module.jpg)
-
-# SENet vs SENetV2
-
-![SENetV2](https://github.com/mahendran-narayanan/SENetV2-Aggregated-dense-layer-for-channelwise-and-global-representations/blob/main/data/senet_vs_senetv2.jpg)
+![SENetV2 module](https://github.com/mahendran-narayanan/SENetV2-Aggregated-dense-layer-for-channelwise-and-global-representations/blob/main/data/senetv2.png)
 
 # Results
 
