@@ -1,10 +1,10 @@
 import tensorflow as tf
 
 class SE(tf.keras.Model):
-    def __init__(self,out):
+    def __init__(self,out,red):
         super().__init__()
         self.out = out
-        self.reduction = 32
+        self.reduction = red
         self.squeeze = tf.keras.layers.GlobalAveragePooling2D()
         self.func1 = tf.keras.layers.Dense(self.out//self.reduction,activation='relu')
         self.func2 = tf.keras.layers.Dense(self.out,activation='sigmoid')
